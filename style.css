@@ -412,3 +412,13 @@ footer .column > a:hover{
     font-weight: 500;
     color: #373150;
 }
+
+.menu-icon {
+    display: none;
+    cursor: pointer;
+}
+
+.menu-icon i {
+    font-size: 24px;
+    color: #fff;
+}
